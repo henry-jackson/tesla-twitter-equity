@@ -5,6 +5,9 @@
 git clone https://github.com/henry-jackson/tesla-twitter-equity.git
 ```
 
+## To Run
+Script/Jupyter notebook running instructions to be added here
+
 ## You will need the following dependencies/programs
 1. Anaconda - https://www.anaconda.com/download
 2. Jupyter Notebook - http://jupyter.org/install
@@ -17,12 +20,19 @@ git clone https://github.com/henry-jackson/tesla-twitter-equity.git
 ## Data Dictionary
 ```
     Data dictionary to be added for relevant terms (tweet, symbol, etc)
+    TWEET - 
+    OPENING PRICE - 
+    CLOSING PRICE - 
+    TWEET TIME - 
+    QUOTE TIME - 
+    SYMBOL - 
     
 ```
 
 ## How does Elon Musk's activity on Twitter impact Tesla's stock price?
 
-I will plan to go more in depth on how I came about to this question for my project
-
-## To Run
-Script/Jupyter notebook running instructions to be added here
+Introduction:
+Hypothesis:
+Procedure:
+Results:
+Conclusions:
