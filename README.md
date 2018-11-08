@@ -21,6 +21,9 @@ jupyter notebook
 4. Pandas - https://pandas.pydata.org/
 5. Numpy - https://scipy.org/install.html
 6. Matplotlib.pyplot - https://matplotlib.org/users/installing.html
+6a. Matplotlib.finance (deprecated to mpl_finance)
+  run `pip install --ignore-installed
+https://github.com/matplotlib/mpl_finance/archive/master.zip`
 7. RISE - https://github.com/damianavila/RISE
 
 ## Data Dictionary
