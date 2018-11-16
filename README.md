@@ -39,15 +39,15 @@ jupyter notebook
 
 ## How does Elon Musk's activity on Twitter impact Tesla's stock price?
 
-Introduction:
+<b>Introduction:</b>
 Due to a tweet Elon Musk sent out the summer before I started my Code
 Louisville cohort, which sent the price of TSLA stock shooting upwards, I was curious as to how much his tweets, on average, affect the stock price of his company. Should he stay off of Twitter, increase his number of Tweets, or does it not matter when viewing the data on aggregate? 
 
-Hypothesis:
+<b>Hypothesis:</b>
 My best guess before starting this project was that he probably decreases his
 company's stock in correlation to how much he tweets.
 
-Procedure:
+<b>Procedure:</b>
 I downloaded as many of his most recent tweets that I could with a free Twitter
 API account and the twarc python script that can be found on github. This was
 stored in a json file. Next, I went to NASDAQ's website and downloaded
@@ -57,16 +57,16 @@ compared with a numpy correlation function. The data was also compared on
 a scatter plot. Units of comparison were the number of tweets per month, and
 the average daily change in price per month (close price - open price).
 
-Results:
+<b>Results:</b>
 Run the notebook to view my results and see how I queried the SQL databases and
 graphed everything!
 
-Conclusions:
+<b>Conclusions:</b>
 There was virtually no correlation between the two datasets. It can be
 concluded that tweet quantity did not affect the daily price change in Tesla
 stock when considering one month of trading days per sample.
 
-Ways to Take This Further:
+<b>Ways to Take This Further:</b>
 - Make graphs more aesthetically pleasing
 - Publish on my portfolio instead of a jupyter notebook
 - Graph/identify outliers
