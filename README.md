@@ -20,6 +20,9 @@ conda create --name teslatwitter --file spec-file.txt
 ```
 conda install --name teslatwitter --file spec-file.txt
 ```
+> You may need to run `conda install matplotlib` manually if you receive 404
+errors.
+
 5. Run Jupyter Notebook by running below script in your terminal
 ```
 jupyter notebook
